@@ -1,6 +1,7 @@
 # AndroidDynamicPermission
 
 
+
 参考资料
 
 http://mdsa.51cto.com/art/201508/489882_all.htm#topx
