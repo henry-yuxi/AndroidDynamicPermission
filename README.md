@@ -21,7 +21,7 @@ https://blog.csdn.net/qq_38414907/article/details/76535559
 
 https://blog.csdn.net/xiayiye5/article/details/80511554
 
-
+http://www.hailantown.com/2016/09/Unity适配Android6.0权限管理/
 
 
 
